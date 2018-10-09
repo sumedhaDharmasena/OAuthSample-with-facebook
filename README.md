@@ -13,8 +13,8 @@ Once you download/clone this project, you need to modify the following two files
 This has following code.
 
  final String REDIRECT_URI = "https://localhost:8443/OAuthApp/callback";
- final String CLIENT_ID = "1789938591061725";
- final String CLIENT_SECRET = "1e4e5fdf232feea13b23aa4760e42923";
+ final String CLIENT_ID = "304736406993872";
+ final String CLIENT_SECRET = "4cda1330b77ad69f10f00ceb0d624aa8";
  
 Put your App ID, App Secret and the correct Redirect Uri in above.
 
@@ -23,7 +23,7 @@ Put your App ID, App Secret and the correct Redirect Uri in above.
 
 This has following code. 
  
- var appid = "1789938591061725";
+ var appid = "304736406993872";
  var redirecturi = "https://localhost:8443/OAuthApp/callback";
 
 Put your App ID and Redirect Uri above 
